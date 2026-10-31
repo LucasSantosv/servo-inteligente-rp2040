@@ -1,0 +1,11 @@
+build/
+.pio/
+*.elf
+*.uf2
+*.bin
+*.o
+*.a
+*.map
+__pycache__/
+.DS_Store
+Thumbs.db
