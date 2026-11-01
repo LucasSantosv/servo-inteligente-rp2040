@@ -20,3 +20,7 @@ pinagem correta, desempenho ou validação do controle.
 ![Ponte e motor](foto_04.jpeg)
 
 ![Visão geral da bancada](foto_05.jpeg)
+
+## Ensaio térmico posterior
+
+[Capturas originais do ensaio de cinco minutos a 7,5 V](ensaio-termico/README.md), com máxima visível de 51,4 °C. Consulte o relatório para as condições que ainda não foram confirmadas.

@@ -1,3 +1,5 @@
+> Documento de arquitetura da etapa inicial. Para a montagem física e os resultados atuais (V15, multiplexador e NTC), consulte o README da raiz e o relatório térmico. As opções de arquitetura/PCB abaixo continuam propostas, não decisões fechadas.
+
 # Arquitetura e próximos passos
 
 ## Protótipo atual
@@ -47,3 +49,4 @@ estabelecer corrente de partida e travamento, escolher proteção e regulador,
 testar retorno e perdas mecânicas, e revisar layout térmico e de potência.
 Em seguida fabricar um pequeno piloto antes de encomendar 20 unidades.
 Nenhum esquema elétrico final ou PCB foi validado nesta etapa.
+
