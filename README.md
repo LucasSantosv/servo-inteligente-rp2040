@@ -8,6 +8,12 @@ Protótipo de baixo custo para o robô pato: começou com motor DC TT com reduto
 
 O autor substituiu o TT por um servo ST47 com seu motor original e relatou bons resultados iniciais. A V16 permite comparar dez perfis de PID pelo Serial, mantendo a V15 disponível. A velocidade em relação ao controle original ainda está em investigação; não há calibração física do novo potenciômetro nem tensão confirmada deste ensaio.
 
+### Vídeo do funcionamento
+
+Registro de bancada com o servo ST47 e controle externo, enviado pelo autor em 01/11/2026. Vídeo completo, sem cortes ou recompressão: 26,5 s, MP4/H.264, 848 × 478, aproximadamente 6,3 MB. Áudio original preservado.
+
+https://github.com/user-attachments/assets/62a6422f-c1e9-4013-8bb7-1cb3dd7c559f
+
 ![Montagem com servo convertido](media/2026-11-01/01-montagem-servo-st47.jpeg)
 
 [Relato, telemetria e limites da observação](docs/avanco-2026-11-01.md) · [Duas imagens originais](media/2026-11-01/) · [V16 e tabela dos perfis](firmware/atual/teste_servo_v16_perfis_pid/LEIA-ME.md)
